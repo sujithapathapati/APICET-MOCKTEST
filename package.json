@@ -1,5 +1,5 @@
 {
-  "name": "apicet-mock-test"
+  "name": "apicet-mock-test",
   "version": "1.0.0",
   "description": "AP ICET mock test with backend login and SQLite database",
   "main": "server.js",
