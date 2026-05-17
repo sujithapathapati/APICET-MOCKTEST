@@ -5,7 +5,7 @@ This is a full-stack AP ICET mock test web application built using HTML, CSS, Ja
 
 ## Live Project
 
-(https://apicet-mocktest.onrender.com)
+(https://apicet-mocktest-1.onrender.com)
 
 
 ## Overview
